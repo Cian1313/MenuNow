@@ -10,5 +10,8 @@ package javafxprojectis2209;
  * @author 117381516
  */
 class Breakfast {
+    //Declare properties
+    private String name;
+    private Double price;
     
 }
